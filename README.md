@@ -1,2 +1,1 @@
-# ticker-name
-This project takes a ticker symbol as input and uses web scraping to return the stock's full name.
+This project displays a tkinter gui using python and takes a ticker symbol as input and allows the user to submit this query. Then it uses selenium chromedriver web scraping to return the stock's full name.
