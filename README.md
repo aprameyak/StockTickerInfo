@@ -1,1 +1,1 @@
-This project displays a tkinter gui using python and takes a ticker symbol as input and allows the user to submit this query. Then it uses selenium chromedriver web scraping to return the stock's full name.
+A tkinter user interface allows users to enter a stock ticker and submit it. Once the submit is pressed, the web scraping using selenium webdriver for chrome performs a query. This gets a stock's full name from using the inputted ticker symbol and returns it in the graphical user interface.
