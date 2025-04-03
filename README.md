@@ -1,4 +1,4 @@
-# **Stock Ticker Info Scraper**
+# **Stock Ticker Info**
 
 This project features a graphical user interface (GUI) built with Tkinter that allows users to input a stock ticker symbol. Upon submitting the ticker, the application uses Selenium WebDriver for Chrome to scrape the stock's full name and display it back in the GUI.
 
